@@ -48,7 +48,6 @@ class _SplashScreenPageState extends State<SplashScreenPage> {
             "| Ahmad Norifansyah (19710109) // 5A Sistem Informasi (RBJM) // Berau, 14 September 2001 // Jl. Ery Suparjan No. 11a |",
             style: TextStyle(
               color: Colors.white,
-              fontWeight: FontWeight.bold,
               fontSize: 25.0,
             ),
           ),
