@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Splash screen',
+    title: 'Splash Screen',
     home: SplashScreenPage(),
   ));
 }
